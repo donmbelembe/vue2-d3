@@ -1,0 +1,28 @@
+{
+  "name": "vue2-d3",
+  "version": "0.0.1",
+  "description": "A vue.js 2 plugin for D3.js",
+  "main": "vue-d3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donmbelembe/vue2-d3.git"
+  },
+  "keywords": [
+    "vue",
+    "vue.js",
+    "vue 2",
+    "d3js",
+    "d3.js",
+    "d3 v4",
+    "vue.js d3.js"
+  ],
+  "author": "\"donmbelembe <donmbelembe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donmbelembe/vue2-d3/issues"
+  },
+  "homepage": "https://github.com/donmbelembe/vue2-d3#readme"
+}
