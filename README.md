@@ -1,6 +1,6 @@
-# vue-d3
+# vue2-d3
 
-A Vue.js plugin for [D3](https://github.com/d3/d3).
+A Vue.js plugin for [D3.js](https://github.com/d3/d3).
 
 ## Installation
 
