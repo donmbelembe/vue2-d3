@@ -11,8 +11,8 @@ npm install --save vue2-d3
 
 Vue:
 ```javascript
-var Vue = require('vue')
-var VueD3 = require('vue2-d3')
+import Vue from 'vue'
+import VueD3 from 'vue2-d3'
 Vue.use(VueD3)
 ```
 
