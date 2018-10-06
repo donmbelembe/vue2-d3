@@ -1,6 +1,6 @@
 {
   "name": "vue2-d3",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A vue.js 2 plugin for D3.js",
   "main": "vue-d3.js",
   "scripts": {
